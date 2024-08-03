@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-03T12:28:47 IDT" name="Suite" finished-at="2024-08-03T12:29:09 IDT" duration-ms="21961">
+  <suite started-at="2024-08-03T12:34:55 IDT" name="Suite" finished-at="2024-08-03T12:35:17 IDT" duration-ms="21993">
     <groups>
     </groups>
-    <test started-at="2024-08-03T12:28:47 IDT" name="Test" finished-at="2024-08-03T12:29:09 IDT" duration-ms="21961">
+    <test started-at="2024-08-03T12:34:55 IDT" name="Test" finished-at="2024-08-03T12:35:17 IDT" duration-ms="21993">
       <class name="tests.TestScenario">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestScenario@696da30b]" started-at="2024-08-03T12:28:42 IDT" name="setup" finished-at="2024-08-03T12:28:47 IDT" duration-ms="4763" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.TestScenario@2bfc268b]" started-at="2024-08-03T12:34:51 IDT" name="setup" finished-at="2024-08-03T12:34:55 IDT" duration-ms="4053" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="scenario()[pri:0, instance:tests.TestScenario@696da30b]" started-at="2024-08-03T12:28:47 IDT" name="scenario" description="Buying a shirt happy scenario from end to end" finished-at="2024-08-03T12:29:09 IDT" duration-ms="21944" status="PASS">
+        <test-method signature="scenario()[pri:0, instance:tests.TestScenario@2bfc268b]" started-at="2024-08-03T12:34:55 IDT" name="scenario" description="Buying a shirt happy scenario from end to end" finished-at="2024-08-03T12:35:17 IDT" duration-ms="21975" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.TestScenario@696da30b]" started-at="2024-08-03T12:29:09 IDT" name="endTest" finished-at="2024-08-03T12:29:09 IDT" duration-ms="175" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:tests.TestScenario@2bfc268b]" started-at="2024-08-03T12:35:17 IDT" name="endTest" finished-at="2024-08-03T12:35:17 IDT" duration-ms="218" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
